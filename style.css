@@ -1,0 +1,36 @@
+.sub1, .sub3{
+    height: 100px;
+    width: 500px;
+    background-color: red;
+    color: white;
+}
+.sub1{
+    position: relative;
+    
+}
+.sub1 p{
+    position: absolute;
+    font-size: xx-large;
+    margin-left: 180px;
+}
+.sub2{
+    height: 200px;
+    width: 500px;
+    position: relative;
+    background-color: navy;
+}
+.sub2 div{
+    position: absolute;
+    border-radius: 50%;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    margin-left: 175px;
+    margin-top:25px;
+}
+.sub2 p{
+    position: absolute;
+    font-size: xx-large;
+    margin-left: 20px;
+    margin-top: 50px;
+}
